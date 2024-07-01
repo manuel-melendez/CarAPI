@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|c:\\users\\manny\\dev\\projects\\.netcore\\carapi\\carapi\\migrations\\20240630013207_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88FC524C-9178-4AFD-8D57-12857304650D}|CarAPi\\CarAPi.csproj|solutionrelative:carapi\\migrations\\20240630013207_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240630013207_init.cs",
-              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Migrations\\20240630013207_init.cs",
-              "RelativeDocumentMoniker": "CarAPi\\Migrations\\20240630013207_init.cs",
-              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Migrations\\20240630013207_init.cs",
-              "RelativeToolTip": "CarAPi\\Migrations\\20240630013207_init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarAPi\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarAPi\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:32:08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Program.cs",
-              "RelativeDocumentMoniker": "CarAPi\\Program.cs",
-              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Program.cs",
-              "RelativeToolTip": "CarAPi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:27:14.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CarAPi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CarAPi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:20:30.181Z",
+              "WhenOpened": "2024-07-01T00:24:02.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Entities\\Car.cs",
-              "RelativeDocumentMoniker": "CarAPi\\Entities\\Car.cs",
-              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Entities\\Car.cs",
-              "RelativeToolTip": "CarAPi\\Entities\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CarAPi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CarAPi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:18:05.206Z"
+              "WhenOpened": "2024-07-01T00:23:28.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Repositories\\UserService.cs",
+              "RelativeDocumentMoniker": "CarAPi\\Repositories\\UserService.cs",
+              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Repositories\\UserService.cs",
+              "RelativeToolTip": "CarAPi\\Repositories\\UserService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowC0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:10:39.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Repositories\\IUserService.cs",
+              "RelativeDocumentMoniker": "CarAPi\\Repositories\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Repositories\\IUserService.cs",
+              "RelativeToolTip": "CarAPi\\Repositories\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:09:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\appsettings.json",
               "RelativeDocumentMoniker": "CarAPi\\appsettings.json",
               "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\appsettings.json",
               "RelativeToolTip": "CarAPi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-30T01:15:06.224Z"
+              "WhenOpened": "2024-07-01T00:07:30.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Program.cs",
+              "RelativeDocumentMoniker": "CarAPi\\Program.cs",
+              "ToolTip": "C:\\Users\\Manny\\dev\\projects\\.NETcore\\CarAPi\\CarAPi\\Program.cs",
+              "RelativeToolTip": "CarAPi\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:03:06.166Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -10,6 +10,7 @@ namespace CarAPi.Data
         }
 
         public DbSet<Car> Cars { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -21,6 +22,15 @@ namespace CarAPi.Data
                     Model = "Rouge",
                     Year = 2012,
                     Mileage = 10000
+                });
+
+            modelBuilder.Entity<User>().HasData(
+                new User
+                {
+                    Id = 1,
+                    Username = "user",
+                    Password = "password",
+                    Role = "User"
                 });
 
             base.OnModelCreating(modelBuilder);

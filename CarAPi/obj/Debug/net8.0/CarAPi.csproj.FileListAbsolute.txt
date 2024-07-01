@@ -134,3 +134,5 @@ C:\Users\Manny\dev\projects\.NETcore\CarAPi\CarAPi\obj\Debug\net8.0\refint\CarAP
 C:\Users\Manny\dev\projects\.NETcore\CarAPi\CarAPi\obj\Debug\net8.0\CarAPi.pdb
 C:\Users\Manny\dev\projects\.NETcore\CarAPi\CarAPi\obj\Debug\net8.0\CarAPi.genruntimeconfig.cache
 C:\Users\Manny\dev\projects\.NETcore\CarAPi\CarAPi\obj\Debug\net8.0\ref\CarAPi.dll
+C:\Users\Manny\dev\projects\.NETcore\CarAPi\CarAPi\obj\Debug\net8.0\CarAPi.sourcelink.json
+C:\Users\Manny\dev\projects\.NETcore\CarAPi\CarAPi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
